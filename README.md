@@ -1,4 +1,7 @@
 # Helping Hand For a New Investor
+#### Note: This is a reupload of the project for resume purposes
+#### Following accounts contributed: @simargadri @peter952 @aakashsonali @kimaustria
+
 * Problem Statement: An investor who is new to trading can face many challenges when it comes to researching and analyzing a stock or a company because they are not familiar with the financial statement analysis process and lack the technical analysis skills. Our project aims to help new and beginner investors in the research process and provide them with next day trade recommendations based on our trading strategy.
 
 ## Please see following folders for corresponding notebooks, files and images:
